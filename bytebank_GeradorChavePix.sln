@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bytebank_GeradorChavePix", "bytebank_GeradorChavePix.csproj", "{14C8E26C-FCB1-4E43-B56A-F096ACB5B803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLL_To_XML-JSON", "..\DLL_To_XML-JSON\DLL_To_XML-JSON.csproj", "{8A93353E-4BE7-4BE2-945B-1F64C82E3A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C8E26C-FCB1-4E43-B56A-F096ACB5B803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C8E26C-FCB1-4E43-B56A-F096ACB5B803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C8E26C-FCB1-4E43-B56A-F096ACB5B803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C8E26C-FCB1-4E43-B56A-F096ACB5B803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A93353E-4BE7-4BE2-945B-1F64C82E3A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A93353E-4BE7-4BE2-945B-1F64C82E3A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A93353E-4BE7-4BE2-945B-1F64C82E3A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A93353E-4BE7-4BE2-945B-1F64C82E3A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88B70D1C-BAF3-425F-AE79-5C49FAB25469}
+	EndGlobalSection
+EndGlobal
